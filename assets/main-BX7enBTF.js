@@ -2989,7 +2989,7 @@ function Be({ loai: t, thongDiep: e, onThuLai: n, linkTao: a }) {
     })
 }
 const Ge = {
-    messages: ["Iu em" , "ILY,23/02", "iu nhất trên đời", "iu bé m55"],
+    messages: ["Iu em" ,"ILY","23/02", "iu nhất trên đời", "iu bé m55"],
     images: ["./assets/images/1.jpg", "./assets/images/2.jpg", "./assets/images/3.jpg"]
 }
     , Qa = 20
