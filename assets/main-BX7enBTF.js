@@ -935,7 +935,7 @@ function Yn({ onStart: t, skip: e = !1 }) {
         })
 }
 const de = {
-    paragraphs: ["Gửi bạn,", "Trung thu năm nay lại về rồi 🌕 Ngoài kia đèn lồng đã treo kín phố, mùi bánh nướng thơm len qua từng con ngõ nhỏ.", "Mình vẫn nhớ cái đêm đầu tiên hai đứa ngồi xem đèn trời bay lên 🏮 Cậu bảo ước gì năm nào cũng được như thế này.", "Năm nay đèn vẫn bay, trăng vẫn tròn, và mình thì vẫn ở đây ❤️ vẫn muốn nói với cậu đúng câu ấy thêm một lần nữa.", "Có những điều dịu dàng chỉ cần nhớ đến thôi là đủ khiến cả một khoảnh khắc trở nên ấm áp, dù ngoài kia trời đã trở lạnh từ lâu 🍂", "Chú thỏ trên cung trăng chắc cũng đang mải giã bánh 🐰 còn mình thì ngồi đây viết cho cậu vài dòng, mong cậu đọc được rồi mỉm cười 🌙", "Chúc cậu một mùa Trung thu thật bình yên ✨ Mong những điều dịu dàng nhất luôn tìm được đường đến với cậu."]
+    paragraphs: ["Hé lu cô nàng của anh nhó. Lời đầu tiên, anh cảm ơn em vì chúng ta tìm thấy nhau nì xong rùi như bây giờ nè :)). Có thể đôi lúc 2 đứa hơi vụng về nhưng mờ anh cảm ơn em vì em luôn ở lại đồng hành cùng anh. Nhân tiện mùa Trung Thu anh chúc em bình an vui vẻ càng ngày càng như những bông hoa thanh cúc nở rộ vào mùa thu. Anh chúc em 1 kì trung thu hạnh phúc. Anh Yêu Em"],
 }
     , Lt = {
         speedMs: 42,
